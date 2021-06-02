@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<oauthApplication id="1">
+  <name>DROP</name>
+  <serviceProvider>Dropbox</serviceProvider>
+  <consumerKey>32432234</consumerKey>
+  <consumerSecret>G0y7Elnc7S2j+OlVNGsYZ5SiLKyDMfWXK+0TzwvrDM1rRMgrU2//OyB/NHP/Cy3BjFvi0j6fszeQMZSWyzVfrKfekNAsCapZ3ia/CLq77XbZyvoBJeBBtGdlkgo7QpNZKKQFcTs6J6I9VEUZT1ououd2PhkoWvndyNKVRQwz5Ik=:mDfYuG7g6QiB1pCj:6ZigqomOBvsXQB6iRBcho2ffOL2z4pzmICs=</consumerSecret>
+  <callbackURL>http://localhost:8080/ManagementConsole/OAuthCallback</callbackURL>
+  <scope/>
+  <project id="2"/>
+  <modifiedBy>admin</modifiedBy>
+  <revisionNumber>3e3d0164764354d126d766dc174ebd50453be054</revisionNumber>
+  <commitMessage/>
+  <lastModified id="3">2021-06-02 12:24:04.0 UTC</lastModified>
+  <serializationVersion>1</serializationVersion>
+</oauthApplication>
