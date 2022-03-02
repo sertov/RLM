@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<oauthApplication id="1">
+  <name>TWIT</name>
+  <serviceProvider>Twitter</serviceProvider>
+  <consumerKey>jwdXRZWvz0imbScjAdiSsXPOd</consumerKey>
+  <oauthUser id="2">
+    <id>1030238594991000</id>
+    <name>admin</name>
+    <oauthApplication reference="1"/>
+    <accessToken>gpSXXvP2MkSO5WEtJA2VbDp0I+gwoQKckiS/JhfnEomckzhFKEA1Q7qmKBfiCyJv+9y6Id1uyPyY7pzS50c/Nv5eewPWHKsDDxsTzUzE5jH/KuWY1AmvL+zXvdzJkudztBRXeyGYW/MSCBY6f0nubDSMvI1Yz73rLfDrdl6AlQ0=:K1FGIAbOHNjj5jx0:nVpNbfGDPFQKV7m/RyrWzqKLOfltFH8gt6temdPvSqBwh+39FJHPHZIIQj33B9NR5Zu8aZmH+x4nVf7OxSdQvd5z</accessToken>
+    <accessTokenSecret>RxXaJBs4ws2lfkZfgfD7Ix2ca8TmlEJdSVOVSLdI6PqoY0fWT55F7ggF9jK22/U6YEoiIOySx3Mm4nFjrkHSqNW69PJ7ZsV2Zc32Tcm04BoaVxY6yte1wagfC0ayQlzyWHS4dI+nlFsn03rz9LPeMLSGqnTxUipd2fQIPQSCzEw=:aBXGAp7DkXNtT5gH:ZIdhJ3K9ORShF+QPKgEUcfRAMmiqwRzBbfB2ggNAJ5kQB6IjUiM3uj2bJQPfLyy7T/CHSTWf1L0UeLdNgw==</accessTokenSecret>
+    <refreshToken/>
+  </oauthUser>
+  <consumerSecret>wLQH4lCpLkxXhAhq4a2y0e4ILxhc20vypQbEIOk3MpBPBfehLzh86g+DI6buNwT0AcIerFI1TrU6ER36xcWTcIJTkPrfXvjpstNLRBX7Ek0DlJEGWvdU3YT2f6saP8AAKmnwkhMAATXBcu4Mtsoxh006+3qWLvBrXZiuygSxisg=:KaZ8Zv2nMllBtUGw:/rVSOdibMrqEsMuWV+HYW2UtKbs1dWc8x5BcGPX3OW54RY3DmpQXOpWOxsCQrfJfpKkZWWkAIKmhKz5mllACCK7z</consumerSecret>
+  <callbackURL>http://localhost:8080/ManagementConsole/OAuthCallback</callbackURL>
+  <scope/>
+  <project id="3"/>
+  <modifiedBy>admin</modifiedBy>
+  <revisionNumber>a9cb84fd527553fa17bc228b1392c25038b2ddf9</revisionNumber>
+  <commitMessage/>
+  <lastModified id="4">2022-03-02 16:34:40.0 UTC</lastModified>
+  <serializationVersion>1</serializationVersion>
+</oauthApplication>
